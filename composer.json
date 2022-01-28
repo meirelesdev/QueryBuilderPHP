@@ -1,23 +1,27 @@
 {
-    "name": "daniel/tdd-php",
-    "description": "Treinando tdd com php",
+    "name": "meirelesdev/querybuilder",
+    "description": "Treinando TDD com PHP",
     "autoload": {
         "psr-4": {
             "Daniel\\QueryBuilder\\": "src/",
             "Test\\": "tests"
         }
     },
-    "authors": [
-        {
-            "name": "Daniel Meireles",
-            "email": "daniel@inovadora.com.br"
-        }
-    ],
     "require": {
+        "php":">=7.4",
         "phpunit/phpunit": "^9.5"
     },
     "minimum-stability": "dev",
     "config": {
         "bin-dir":"bin/"
-    }
+    },
+    "type": "library",
+    "version": "1.0",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Daniel Meireles",
+            "email": "httpdaniel@yahoo.com.br"
+        }
+    ]
 }
