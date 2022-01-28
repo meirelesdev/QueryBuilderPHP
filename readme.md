@@ -47,6 +47,13 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ### :whale: Executando o Projeto
 
+### Instalando a partir do composer
+```sh
+# Para instalar partir do composer
+$ composer require meirelesdev/querybuilder
+```
+
+### Instalando a partir do github
 ```bash
 # Clone o Repositório
 $ git clone https://github.com/meirelesdev/QueryBuilderPHP.git
