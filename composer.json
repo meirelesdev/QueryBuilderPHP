@@ -1,0 +1,19 @@
+{
+    "name": "daniel/tdd-php",
+    "description": "Treinando tdd com php",
+    "autoload": {
+        "psr-4": {
+            "Daniel\\QueryBuilder\\": "src/",
+            "Test\\": "tests"
+        }
+    },
+    "authors": [
+        {
+            "name": "Daniel Meireles",
+            "email": "daniel@inovadora.com.br"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
