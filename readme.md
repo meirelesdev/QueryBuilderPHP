@@ -8,8 +8,6 @@ Projeto desenvolvido para praticar TDD utilizando PHP.
       <img alt="Daniel Meireles" src="https://img.shields.io/badge/-Daniel Meireles-0080000?style=flat&logo=Linkedin&logoColor=white" />
    </a>
   <img alt="Repository size" src="https://img.shields.io/github/languages/code-size/meirelesdev/QueryBuilderPHP?color=0080000label=repo%20size">
-
-
   <a href="https://github.com/meirelesdev/QueryBuilderPHP/commits/main">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/meirelesdev/QueryBuilderPHP?color=0080000">
 </p>
@@ -66,7 +64,7 @@ $ composer update
 ### Rodando os Testes.
 ```bash
 # Para rodar os testes digite o comando.
-$ vendor/bin/phpunit
+$ bin/phpunit
 ```
 ---
 

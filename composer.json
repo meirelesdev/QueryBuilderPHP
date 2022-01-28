@@ -16,5 +16,8 @@
     "require": {
         "phpunit/phpunit": "^9.5"
     },
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "config": {
+        "bin-dir":"bin/"
+    }
 }
